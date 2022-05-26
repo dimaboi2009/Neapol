@@ -63,3 +63,18 @@
   line-height: 28px;
   color: #ffffff;
 }
+
+.menu{
+  text-align: center;
+}
+
+.menu__link{
+  padding: 10px;
+  font-size: 30px;
+}
+
+.menu__title{
+  font-size: 70px;
+  text-transform: uppercase;
+  text-shadow: 0px 6px 6px #006eff;
+}
